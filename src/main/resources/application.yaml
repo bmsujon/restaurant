@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: restaurant
+  threads:
+    virtual:
+      enabled: true
+  jpa:
+    generate-ddl: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+server:
+  port: 8081
