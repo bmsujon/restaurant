@@ -7,3 +7,4 @@ Experimental project to experiment with the following topics:
 6. new jdbc client in springboot
 7. jdbc batching
 8. spring batch
+9. docker compose uses for db config
