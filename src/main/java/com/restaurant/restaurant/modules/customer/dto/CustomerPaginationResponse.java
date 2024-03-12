@@ -1,6 +1,6 @@
 package com.restaurant.restaurant.modules.customer.dto;
 
-import com.restaurant.restaurant.common.PaginationResponse;
+import com.restaurant.restaurant.common.responses.PaginationResponse;
 import lombok.*;
 
 import java.util.List;

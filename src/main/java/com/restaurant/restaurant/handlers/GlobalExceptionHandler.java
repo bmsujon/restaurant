@@ -2,7 +2,7 @@ package com.restaurant.restaurant.handlers;
 
 import com.amazonaws.services.cloudformation.model.AlreadyExistsException;
 import com.amazonaws.services.personalizeevents.model.InvalidInputException;
-import com.restaurant.restaurant.common.ExceptionResponse;
+import com.restaurant.restaurant.common.responses.ExceptionResponse;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
