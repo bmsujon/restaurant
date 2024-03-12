@@ -1,4 +1,4 @@
-package com.restaurant.restaurant.common.responses;
+package com.restaurant.restaurant.common;
 
 import lombok.*;
 
